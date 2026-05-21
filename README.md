@@ -51,3 +51,7 @@ In the game it is also possible to undo the move if the player accidentally clic
 
 #Future Plans
 - Future enhancements include adding correct scaling for about modes view for every device and ability to play with someone on 2 devices via bluetooth or WiFi.
+
+## License
+
+  Source-available for **non-commercial use only**. © 2026 Zakhar Stupak.
